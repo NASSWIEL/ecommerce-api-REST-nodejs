@@ -1,1 +1,1 @@
-This repository contains the code for the back end of an e-commerce site developed using Node.js, MongoDB, and Postman. The project is currently a work in progress, and a detailed README file will be added upon completion .
+This repository contains the code for the back end of an e-commerce site developed using Node.js, MongoDB, and Postman. The project is currently a  work in progress, and a detailed README file will be added upon completion .
